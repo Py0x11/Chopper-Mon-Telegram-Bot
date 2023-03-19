@@ -2,6 +2,9 @@
 
 Chopper Mon is a Telegram AI bot based on the GPT-3.5 Turbo model that can chat with you just like a normal user. It has been trained to talk like the anime character Tony Tony Chopper from the popular anime series One Piece. You can interact with Chopper Mon in a fun and engaging way and get answers to your queries instantly.
 
+### Built With
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Features
 
 Chopper Mon comes with a range of features that make it one of the best AI bots on Telegram. Here are some of the features that you can enjoy:
